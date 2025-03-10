@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rarisenpai
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python3 and tensorflow
+- 👀 I’m building the future with AI
 - 💞️ I’m looking to collaborate on interesting ml projects.
 - 📫 How to reach me @rarisenpai@gmail.com
 <!---
